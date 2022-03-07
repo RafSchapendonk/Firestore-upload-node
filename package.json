@@ -1,0 +1,15 @@
+{
+  "name": "firestore_script",
+  "version": "1.0.0",
+  "description": "Script for uploading data to firestore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "upload": "node ../firestore-upload-node"
+  },
+  "author": "Raf Schapendonk",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  }
+}

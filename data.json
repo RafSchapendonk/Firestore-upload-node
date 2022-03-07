@@ -1,0 +1,52 @@
+{
+  "Test01": {
+    "album": "The White Stripes",
+    "year": 1999,
+    "US_peak_chart_post": "-"
+  },
+  "Test02": {
+    "album": "De Stijl",
+    "year": 2000,
+    "US_peak_chart_post": "-"
+  },
+  "Test03": {
+    "album": "White Blood Cells",
+    "year": 2001,
+    "US_peak_chart_post": 61
+  },
+  "Test04": {
+    "album": "Elephant",
+    "year": 2003,
+    "US_peak_chart_post": 6
+  },
+  "Test05": {
+    "album": "Get Behind Me Satan",
+    "year": 2005,
+    "US_peak_chart_post": 3
+  },
+  "Test06": {
+    "album": "Icky Thump",
+    "year": 2007,
+    "US_peak_chart_post": 2
+  },
+  "Test07": {
+    "album": "Under Great White Northern Lights",
+    "year": 2010,
+    "US_peak_chart_post": 11
+  },
+  "Test08": {
+    "album": "Live in Mississippi",
+    "year": 2011,
+    "US_peak_chart_post": "-"
+  },
+  "Test09": {
+    "album": "Live at the Gold Dollar",
+    "year": 2012,
+    "US_peak_chart_post": "-"
+  },
+  "Test10": {
+    "album": "Nine Miles from the White City",
+    "year": 2013,
+    "US_peak_chart_post": "-"
+  }
+}
